@@ -1,4 +1,5 @@
 #!/bin/bash
+#Script for manual choose and crate files
 #Check the directory
 if [ -d /home/alex/IgorExercise/temp ]; then
 echo > /dev/null
