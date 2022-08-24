@@ -20,4 +20,8 @@ case $x in
         kini) wget https://sav1maps.community-server.info/kinixxx_overhead.jpg
 esac
 
-echo =====END==========
+#name1=eden2_overhead.jpg
+#name2=izi_overhead.jpg
+#name3=kinixxx_overhead.jpg
+
+mv *.jpg ~/images/
